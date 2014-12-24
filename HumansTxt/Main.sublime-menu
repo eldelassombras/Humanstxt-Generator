@@ -1,0 +1,13 @@
+[
+{
+"id" : "humanstxt",
+"caption": "Genera Humans.txt",
+"children":
+[
+{
+"caption" : "Ejecuta el Plugin",
+"command" : "humanstxt"
+}
+]
+}
+]
